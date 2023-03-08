@@ -8,12 +8,12 @@
 - New link page: [Solo.to - Schlüsseldienst Nürnberg][solo.to-schluesseldienst-nuernberg]
 - New link page: [Linktr.ee - Schlüsseldienst Nürnberg][linktr.ee-schluesseldienst-nuernberg]
 - New link page: [HeyLink.me - Schlüsseldienst Nürnberg][heylink.me-schluesseldienst-nuernberg]
-- New link page: [Diigo.com - Schlüsseldienst Nürnberg][diigo.com-schluesseldienst-nuernberg
+- New link page: [Diigo.com - Schlüsseldienst Nürnberg][diigo.com-schluesseldienst-nuernberg]
 - New link page: [Justmy.bio - Schlüsseldienst Nürnberg][justmy.bio-schluesseldienst-nuernberg]
 
 - New link page: [AllMyLinks.com - Schlüsseldienst Fürth][allmylinks-schluesseldienst-fuerth]
 - New link page: [Linktr.ee - Schlüsseldienst Fürth][linktr.ee-schluesseldienst-fuerth]
-- New link page: [HeyLink.me - Schlüsseldienst Fürth][heylink.me-schluesseldienst-fürth]
+- New link page: [HeyLink.me - Schlüsseldienst Fürth][heylink.me-schluesseldienst-fuerth]
 - New link page: [Diigo.com - Schlüsseldienst Fürth][diigo.com-schluesseldienst-fuerth]
 - New link page: [Justmy.bio - Schlüsseldienst Fürth][justmy.bio-schluesseldienst-fuerth]
 
