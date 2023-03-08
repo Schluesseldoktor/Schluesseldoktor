@@ -33,7 +33,7 @@
 [linktr.ee-schluesseldienst-nuernberg]: https://linktr.ee/schluesseldienst_nuernberg "Linktr.ee - günstiger Schlüsseldienst in Nürnberg"
 [heylink.me-schluesseldienst-nuernberg]: https://heylink.me/schluesseldienst-nuernberg/ "HeyLink.me - Schlüsseldienst in Nürnberg"
 [diigo.com-schluesseldienst-nuernberg]: https://www.diigo.com/profile/schluesseldoktor "Diigo.com - Schlüsseldienst in Nürnberg"
-[justmb.bio-schluesseldienst-nuernberg]: https://schluesseldienst-nuernberg.justmy.bio "Justmy.bio - Schlüsseldienst in Nürnberg"
+[justmy.bio-schluesseldienst-nuernberg]: https://schluesseldienst-nuernberg.justmy.bio "Justmy.bio - Schlüsseldienst in Nürnberg"
 
 [allmylinks-schluesseldienst-fuerth]: https://allmylinks.com/schluesseldienst-fuerth "AllMyLinks.com - Schlüsseldienst in Fürth"
 [linktr.ee-schluesseldienst-fuerth]: https://linktr.ee/schluesseldienst_fuerth "Linktr.ee - günstiger Schlüsseldienst in Fürth"
